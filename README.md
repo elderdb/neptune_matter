@@ -1,4 +1,4 @@
-# Neptune: Matter JS / p5.js example
+# Neptune: Matter.js / p5.js example
 
 Example using MatterJS and P5.js.
 
