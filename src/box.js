@@ -12,7 +12,7 @@ function Box(x, y, w, h) {
    
     if(randomNumber === 1) {
         this.body = Bodies.rectangle(x, y, w, h, options);  
-    } else if(randomNumber === 2) {
+    } else {
         this.body = Bodies.circle(x, y, 20, options); 
     }
 
